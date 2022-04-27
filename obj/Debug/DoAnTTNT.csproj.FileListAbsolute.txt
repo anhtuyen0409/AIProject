@@ -1,0 +1,31 @@
+E:\C# project\DoAnTTNT\bin\Debug\DoAnTTNT.exe.config
+E:\C# project\DoAnTTNT\bin\Debug\DoAnTTNT.exe
+E:\C# project\DoAnTTNT\bin\Debug\DoAnTTNT.pdb
+E:\C# project\DoAnTTNT\obj\Debug\DoAnTTNT.csproj.AssemblyReference.cache
+E:\C# project\DoAnTTNT\obj\Debug\DoAnTTNT.Properties.Resources.resources
+E:\C# project\DoAnTTNT\obj\Debug\DoAnTTNT.csproj.GenerateResource.cache
+E:\C# project\DoAnTTNT\obj\Debug\DoAnTTNT.csproj.CoreCompileInputs.cache
+E:\C# project\DoAnTTNT\obj\Debug\DoAnTTNT.exe
+E:\C# project\DoAnTTNT\obj\Debug\DoAnTTNT.pdb
+E:\C# project\DoAnTTNT\obj\Debug\DoAnTTNT.frmCoCaro.resources
+C:\Users\HS\Desktop\DoAnTTNT\bin\Debug\DoAnTTNT.exe.config
+C:\Users\HS\Desktop\DoAnTTNT\bin\Debug\DoAnTTNT.exe
+C:\Users\HS\Desktop\DoAnTTNT\bin\Debug\DoAnTTNT.pdb
+C:\Users\HS\Desktop\DoAnTTNT\obj\Debug\DoAnTTNT.csproj.AssemblyReference.cache
+C:\Users\HS\Desktop\DoAnTTNT\obj\Debug\DoAnTTNT.frmCoCaro.resources
+C:\Users\HS\Desktop\DoAnTTNT\obj\Debug\DoAnTTNT.Properties.Resources.resources
+C:\Users\HS\Desktop\DoAnTTNT\obj\Debug\DoAnTTNT.csproj.GenerateResource.cache
+C:\Users\HS\Desktop\DoAnTTNT\obj\Debug\DoAnTTNT.csproj.CoreCompileInputs.cache
+C:\Users\HS\Desktop\DoAnTTNT\obj\Debug\DoAnTTNT.exe
+C:\Users\HS\Desktop\DoAnTTNT\obj\Debug\DoAnTTNT.pdb
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\bin\Debug\DoAnTTNT.exe.config
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\bin\Debug\DoAnTTNT.exe
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\bin\Debug\DoAnTTNT.pdb
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\obj\Debug\DoAnTTNT.csproj.AssemblyReference.cache
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\obj\Debug\DoAnTTNT.csproj.SuggestedBindingRedirects.cache
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\obj\Debug\DoAnTTNT.frmCoCaro.resources
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\obj\Debug\DoAnTTNT.Properties.Resources.resources
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\obj\Debug\DoAnTTNT.csproj.GenerateResource.cache
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\obj\Debug\DoAnTTNT.csproj.CoreCompileInputs.cache
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\obj\Debug\DoAnTTNT.exe
+E:\du lieu cua khachhhhhhhhhhhhhhhhh\desktop\programing\DoAnTTNT\obj\Debug\DoAnTTNT.pdb
